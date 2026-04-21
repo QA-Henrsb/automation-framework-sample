@@ -31,3 +31,4 @@ This project demonstrates a scalable automation framework covering both UI and A
 
 🎯 Goal:
 Provide a clean, maintainable, and scalable automation framework aligned with real-world QA engineering practices.
+Test CI trigger
